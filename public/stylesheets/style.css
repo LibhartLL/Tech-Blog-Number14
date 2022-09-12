@@ -1,7 +1,7 @@
 :root {
     --primary: #ffffff;
-    --secondary: #909090;
-    --tertiary: #0cd1df;
+    --secondary: #040404;
+    --tertiary: hsl(200, 90%, 46%);
     --light-dark: #c8c6c6;
     --border-radius: .3rem;
 }
@@ -33,13 +33,13 @@ nav a {
     line-height: 1.25;
     float: top;
     text-decoration: none;
-    color: #be1919;   
+    color: #020000;   
 }
 
 nav button {
     padding: 10px;
     line-height: 1.25;
-    color: #be1919;
+    color: #080000;
     background-color:transparent; 
     border: none;
     cursor:pointer; 
