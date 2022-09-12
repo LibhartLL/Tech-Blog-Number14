@@ -15,7 +15,7 @@
 This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
 
 ### Installation Instructions:
-Visit this link on Heroku (link)
+Visit this link on Heroku https://git.heroku.com/tech-blog-number14.git
 ### Technologies:
 Javascript, CSS, MySql, npm, and the following npm packages: handlebars, sequelize, bcrypt, dotenv, express-session, connect-session-sequelize
 
