@@ -7,7 +7,7 @@
 * [General Information](#general)
 * [Installation Instructions](#installation)
 * [Technologies](#technologies)
-* [Screenshots or Video Files](#screenshots)
+* [Screenshots or Video Files](#video-demo)
 * [License](#license)
 
 ### General Information:
@@ -19,11 +19,10 @@ Visit this link on Heroku https://blogfortech14.herokuapp.com/
 ### Technologies:
 Javascript, CSS, MySql, npm, and the following npm packages: handlebars, sequelize, bcrypt, dotenv, express-session, connect-session-sequelize
 
-### Screenshots:
-* Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
+### Video-demo:
+* Video demonstration of Tech Blog at 14 application.
 
-![Screenshot](/assets/addimage.jpg),
-![Screenshot](/assets/addimages.jpg).
+[![video of app]](/assets/Untitled_%20Sep%2012%202022%204_31%20PM.webm)
 
 ### License
 This project is licensed under:
