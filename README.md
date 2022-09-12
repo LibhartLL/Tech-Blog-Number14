@@ -7,7 +7,6 @@
 * [General Information](#general)
 * [Installation Instructions](#installation)
 * [Technologies](#technologies)
-* [Credits](#credits)
 * [Screenshots or Video Files](#screenshots)
 * [License](#license)
 
@@ -15,13 +14,10 @@
 This application allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
 
 ### Installation Instructions:
-Visit this link on Heroku https://git.heroku.com/blogfortech14.git
+Visit this link on Heroku https://blogfortech14.herokuapp.com/
+
 ### Technologies:
 Javascript, CSS, MySql, npm, and the following npm packages: handlebars, sequelize, bcrypt, dotenv, express-session, connect-session-sequelize
-
-### Credits:
-* Change MySql password: https://www.cyberciti.biz/faq/mysql-change-user-password/
-* Console.table: https://www.npmjs.com/package/console.table
 
 ### Screenshots:
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
