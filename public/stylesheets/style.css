@@ -1,8 +1,8 @@
 :root {
     --primary: #ffffff;
     --secondary: #040404;
-    --tertiary: hsl(200, 90%, 46%);
-    --light-dark: #c8c6c6;
+    --tertiary: hsl(231, 90%, 46%);
+    --light-dark: #2ce607;
     --border-radius: .3rem;
 }
 
@@ -15,7 +15,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "IBM Plex Sans", sans-serif;
-    color: var(--secondary);
+    color: var(--primary);
     line-height: 1.5;
     font-size: 24px;
 }
