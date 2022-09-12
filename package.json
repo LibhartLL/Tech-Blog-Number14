@@ -1,0 +1,29 @@
+{
+  "name": "tech-blog-number14",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node seeds/index.js && node server.js",
+    "seeds": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibhartLL/Tech-Blog-Number14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibhartLL/Tech-Blog-Number14/issues"
+  },
+  "homepage": "https://github.com/LibhartLL/Tech-Blog-Number14#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "require": "^2.4.20",
+    "sequelize": "^6.21.6"
+  }
+}
