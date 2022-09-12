@@ -1,32 +1,32 @@
 const { Comment } = require('../models');
 
 const commentData = [{
-        comment_text: 'Nunc rhoncus dui vel sem.',
+        comment_text: 'tech blog post text 1.',
         user_id: 1,
         post_id: 1
     },
     {
-        comment_text: 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.',
+        comment_text: 'tech blog post text 2.',
         user_id: 2,
         post_id: 2
     },
     {
-        comment_text: 'Aliquam erat volutpat. In congue.',
+        comment_text: 'tech blog post text 3.',
         user_id: 3,
         post_id: 3
     },
     {
-        comment_text: 'Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.',
+        comment_text: 'tech blog post text 4.',
         user_id: 4,
         post_id: 4
     },
     {
-        comment_text: 'In hac habitasse platea dictumst.',
+        comment_text: 'tech blog post text 5.',
         user_id: 5,
         post_id: 5
     },
     {
-        comment_text: 'Vivamus vestibulum sagittis sapien.',
+        comment_text: 'tech blog post text 6.',
         user_id: 6,
         post_id: 6
     },

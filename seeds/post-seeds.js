@@ -2,33 +2,33 @@ const { Post } = require('../models');
 
 const postData = [{
         title: 'I',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        content: 'comment post 1',
         user_id: 1
 
     },
     {
         title: 'II',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        content: 'comment post 2',
         user_id: 2
     },
     {
         title: 'III',
-        content: 'Ut etiam sit amet nisl purus in mollis.',
+        content: 'comment post 3',
         user_id: 3
     },
     {
         title: 'IV',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        content: 'comment post 4',
         user_id: 4
     },
     {
         title: 'V',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        content: 'comment post 5',
         user_id: 5
     },
     {
         title: 'VI',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        content: 'comment post 6',
         user_id: 6
     }
 ];
