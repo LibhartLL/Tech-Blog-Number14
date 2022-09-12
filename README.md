@@ -1,5 +1,5 @@
 # Tech-Blog-Number14
-## Challenge 14 - UCF Coding Boot Camp
+## Challenge 14/UCF Coding Boot Camp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
